@@ -1,5 +1,5 @@
 # **This is an Internet Sales Analytics Dashboard using Power BI**
-## **It is meant to improve internet sales reports using interactive dashboards.**
+## **It is meant to improve internet sales using interactive dashboards.**
 
 ## **Task Received:** We need to improve our internet sales reports and want to move from static reports to visual dashboards.
 Essentially, we want to focus it on how much we have sold of what products, to which clients and how it has been over time.
