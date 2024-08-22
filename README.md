@@ -17,7 +17,6 @@ The budget is for 2021 and we usually look 2 years back in time when we do analy
 ✅ Sales by Customers City
 
 [Sales Overview Dashboard](https://github.com/Talk2David1/Internet_Sales_Data_Analysis/blob/main/Sales_Dashboard.png)
-Image of My Call Center Trends Dashboard
 
 ## **View Live Interactive Dashboard:** [Here](https://app.powerbi.com/groups/me/reports/284ee2b1-2883-4a56-ad64-43f12e9efeda/ReportSection?experience=power-bi)
 
